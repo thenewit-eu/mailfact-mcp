@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.tsbuildinfo
+docs/npm-publish.md
+.env.e2e
+scripts/pre-commit
